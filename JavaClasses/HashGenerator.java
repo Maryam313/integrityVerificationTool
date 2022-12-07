@@ -1,4 +1,7 @@
-
+/**
+ * 
+ */
+package JavaClasses;
 
 import java.security.MessageDigest;
 import java.util.Scanner;
